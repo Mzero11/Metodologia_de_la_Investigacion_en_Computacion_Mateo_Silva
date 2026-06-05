@@ -7,7 +7,7 @@ Este repositorio contiene el desarrollo de todas las actividades y trabajos prá
 * **Documento en Overleaf:** 
   👉 [Ver documento en Overleaf](https://es.overleaf.com/2722396781fnwcbhzjfvgq#ded3f8)
 
-  ** Mateo Silva**
+ * **Mateo Silva**
 
 ---
 *Repositorio actualizado de forma académica.*
