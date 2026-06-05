@@ -1,0 +1,198 @@
+@article{bentejac2021comparative,
+  author    = {Bent{\'e}jac, C. and Cs{\"o}rg{\H{o}}, A. and Mart{\'i}nez-Mu{\~n}oz, G.},
+  title     = {A Comparative Analysis of Gradient Boosting Algorithms},
+  journal   = {Artificial Intelligence Review},
+  volume    = {54},
+  number    = {3},
+  pages     = {1937--1967},
+  year      = {2021},
+  doi       = {10.1007/s10462-020-09896-5}
+}
+
+@inproceedings{aziz2020study,
+  author    = {Aziz, N. and Jaafar, J. and Akhir, E. A. P. and Hasan, M. H. and Aziz, I. A.},
+  title     = {A Study on Gradient Boosting Algorithms for Development of AI Monitoring and Prediction Systems},
+  booktitle = {Universiti Teknologi PETRONAS},
+  month     = {October},
+  year      = {2020}
+}
+
+@article{zhang2015gradient,
+  author    = {Zhang, Y. and Haghani, A.},
+  title     = {A gradient boosting method to improve travel time prediction},
+  journal   = {Transportation Research Part C: Emerging Technologies},
+  volume    = {58},
+  pages     = {308--324},
+  year      = {2015},
+  doi       = {10.1016/j.trc.2015.02.011}
+}
+
+@article{kumar2020comparative,
+  author    = {Kumar, B. and Kumar, T.},
+  title     = {Comparative Analysis of ML based Gradient Boosting Algorithms: XGBoost, CatBoost, and LightGBM},
+  journal   = {Journal of Scientific and Engineering Research},
+  volume    = {7},
+  number    = {8},
+  pages     = {235--239},
+  year      = {2020}
+}
+
+@article{m2025construction,
+  author    = {M. and J.},
+  title     = {Construction of the prediction model and analysis of key winning factors in world women’s volleyball using gradient boosting decision tree},
+  journal   = {Scientific Reports},
+  volume    = {15},
+  month     = {October},
+  year      = {2025}
+}
+
+@article{rizkallah2025enhancing,
+  author    = {Rizkallah, L. W.},
+  title     = {Enhancing the performance of gradient boosting trees on regression problems},
+  journal   = {Journal of Big Data},
+  volume    = {12},
+  number    = {35},
+  month     = {February},
+  year      = {2025},
+  doi       = {10.1186/s40537-025-01071-3}
+}
+
+@article{elattar2024explainable,
+  author    = {Elattar, M. and Younes, A. and Gad, I. and Elkabani, I.},
+  title     = {Explainable AI model for PDFMal detection based on gradient boosting model},
+  journal   = {Neural Computing and Applications},
+  volume    = {36},
+  pages     = {21607--21622},
+  month     = {September},
+  year      = {2024},
+  doi       = {10.1007/s00521-024-10314-y}
+}
+
+@article{chevalier2024from,
+  author    = {Chevalier, D. and C{\^o}t{\'e}, M.-P.},
+  title     = {From point to probabilistic gradient boosting for claim frequency and severity prediction},
+  journal   = {European Actuarial Journal},
+  pages     = {1--44},
+  year      = {2024},
+  doi       = {10.1007/s13385-025-00428-5}
+}
+
+@article{knieper2025gradient,
+  author    = {Knieper, L. and Hothorn, T. and Bergherr, E. and Griesbach, C.},
+  title     = {Gradient boosting for generalised additive mixed models},
+  journal   = {Statistics and Computing},
+  volume    = {35},
+  number    = {84},
+  year      = {2025},
+  doi       = {10.1007/s11222-025-10612-y}
+}
+
+@article{dahiya2025gradient,
+  author    = {Dahiya, N. and Saini, B. and Chalak, H. D.},
+  title     = {Gradient boosting-based regression modelling for estimating the time period of the irregular precast concrete structural system with cross bracing},
+  journal   = {Journal of King Saud University -- Engineering Sciences},
+  volume    = {37},
+  number    = {69},
+  month     = {December},
+  year      = {2025},
+  doi       = {10.1007/s44444-025-00073-z}
+}
+
+@article{hevapathige2026learning,
+  author    = {Hevapathige, A.},
+  title     = {Learning monotonic constraints for scientific regression: A statistical gradient boosting framework},
+  journal   = {Journal of King Saud University - Computer and Information Sciences},
+  month     = {May},
+  year      = {2026},
+  doi       = {10.1007/s44443-026-00742-2}
+}
+
+@article{elnahas2025ensemble,
+  author    = {Elnahas, O. and Ead, W. M. and Qiu, Y. and Lu, J.},
+  title     = {Ensemble machine learning-based pre-trained annotation approach for scRNA-seq data using gradient boosting with genetic optimizer},
+  journal   = {BMC Bioinformatics},
+  volume    = {26},
+  number    = {166},
+  month     = {July},
+  year      = {2025},
+  doi       = {10.1186/s12859-025-06151-y}
+}
+
+@article{olaniran2025mixed,
+  author    = {Olaniran, O. R. and Olaniran, S. F. and Allohibi, J. and Alharbi, A. A. and Alharbi, N. M.},
+  title     = {Mixed effect gradient boosting for high-dimensional longitudinal data},
+  journal   = {Scientific Reports},
+  volume    = {15},
+  number    = {30927},
+  month     = {August},
+  year      = {2025},
+  doi       = {10.1038/s41598-025-16526-z}
+}
+
+@article{cui2024performance,
+  author    = {Cui, X. and Yang, S. and Wang, J.},
+  title     = {Performance evaluation and interpretation of hybrid models based on light gradient boosting machine to predict coal mining subsidence},
+  journal   = {Scientific Reports},
+  volume    = {14},
+  year      = {2024}
+}
+
+@article{abushuhel2026pioneering,
+  author    = {Abushuhel, M. and Mohammad, H. and Rao P. S, R. and others},
+  title     = {Pioneering oil and nitrogen interfacial tension using evolutionarily optimized gradient boosting machine},
+  journal   = {Scientific Reports},
+  month     = {March},
+  year      = {2026}
+}
+
+@article{akhtar2026prediction,
+  author    = {Akhtar, I. and Ashraf, M. and Niaz, Y. and others},
+  title     = {Prediction of groundwater quality in irrigated areas using a novel gradient boosting approach},
+  journal   = {Applied Water Science},
+  volume    = {16},
+  number    = {102},
+  month     = {February},
+  year      = {2026}
+}
+
+@article{zhang2019predictive,
+  author    = {Zhang, Z. and Zhao, Y. and Canes, A. and Steinberg, D. and Lyashevska, O.},
+  title     = {Predictive analytics with gradient boosting in clinical medicine},
+  journal   = {Annals of Translational Medicine},
+  volume    = {7},
+  number    = {7},
+  pages     = {152},
+  month     = {April},
+  year      = {2019},
+  doi       = {10.21037/atm.2019.03.29}
+}
+
+@article{onyelowe2025self,
+  author    = {Onyelowe, K. C. and Tariq, Z. A. and H. I. and others},
+  title     = {Self compacting concrete with recycled aggregate compressive strength prediction based on gradient boosting regression tree with Bayesian optimization hybrid model},
+  journal   = {Scientific Reports},
+  month     = {August},
+  year      = {2025}
+}
+
+@article{kafou2025supply,
+  author    = {Kafou, A. and Alzubi, A. and Oz, T.},
+  title     = {Supply chain risk prediction using elite attentive foraging optimized incremental distributed learning based deep gradient boosting model},
+  journal   = {Discover Computing},
+  volume    = {28},
+  number    = {106},
+  month     = {June},
+  year      = {2025},
+  doi       = {10.1007/s10791-025-09625-y}
+}
+
+@article{zhou2024thgb,
+  author    = {Zhou, L. and Song, J. and Li, Z. and Hu, Y. and Guo, W.},
+  title     = {{THGB}: predicting ligand-receptor interactions by combining tree boosting and histogram-based gradient boosting},
+  journal   = {Scientific Reports},
+  volume    = {14},
+  number    = {29604},
+  month     = {November},
+  year      = {2024},
+  doi       = {10.1038/s41598-024-78954-7}
+}
